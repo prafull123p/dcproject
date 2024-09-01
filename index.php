@@ -42,7 +42,7 @@
     </div>
 
     <footer class="footer bg-light text-center py-3">
-        <p>© 2024 College Name. All rights reserved.</p>
+        <p>© 2024 Diligence Computer. All rights reserved.</p>
     </footer>
 
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
